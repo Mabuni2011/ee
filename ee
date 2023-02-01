@@ -1,0 +1,6 @@
+local Player = game.Players.LocalPlayer
+
+if Player.Character then
+
+ Player.Character.Humanoid.WalkSpeed = 50
+end
